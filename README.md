@@ -1,2 +1,2 @@
 # CLAprep
-Documentation, Code examples and other materials for preparation to NI CLA exam
+Documentation, few code examples, and other materials for preparation to NI CLA exam

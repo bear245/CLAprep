@@ -21,6 +21,8 @@
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 			</Item>
+			<Item Name="---Car Wash Data.ctl" Type="VI" URL="../Solution1/src/Car Wash Controller/Controls/---Car Wash Data.ctl"/>
+			<Item Name="---Car Wash Steps.ctl" Type="VI" URL="../Solution1/src/Car Wash Controller/Controls/---Car Wash Steps.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

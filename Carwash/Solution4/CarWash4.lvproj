@@ -22,6 +22,7 @@
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 			</Item>
 			<Item Name="Vehicle - Position.ctl" Type="VI" URL="../src/Views/Vehicle Position Simulation/Controls/Vehicle - Position.ctl"/>
+			<Item Name="Views Action.ctl" Type="VI" URL="../src/Model/Controls/Views Action.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
